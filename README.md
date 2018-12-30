@@ -8,3 +8,5 @@ firenet architecture
 CNN architecture
 
 <img width="658" alt="screen shot 2018-12-28 at 9 45 30 pm" src="https://user-images.githubusercontent.com/27938420/50533977-ed83b400-0ae9-11e9-96e9-277386ec5976.png">
+
+To test this repo, download all, and ``python firenet.py [image path]``. This will run this repo and get the result.
